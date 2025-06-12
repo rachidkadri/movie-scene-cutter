@@ -1,0 +1,7 @@
+moviepy==1.0.3
+gradio==4.16.0
+openai-whisper==20231117
+arabic-reshaper
+python-bidi
+pydub
+ffmpeg-python
